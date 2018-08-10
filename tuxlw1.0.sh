@@ -149,7 +149,7 @@ infophp="<? phpinfo(); ?>"
 
 	else
 		
-		echo -e '\033[40;31m O $arquivo não existe... \033[m'
+		echo -e "\033[40;31m O $arquivo não existe... \033[m"
                 echo " "
                 read -p "Mais mesmo assim deseja cria-lo? [S/n]: " yesorno
 
@@ -170,7 +170,7 @@ infophp="<? phpinfo(); ?>"
 	echo -e "7"
 	echo -e "7.1"
 	echo -e "nenhuma"
-	read -p "A baixo selecione uma opção exemplo (PHP:5.6)...\n PHP:" versao
+	read -p "Abaixo selecione uma opção exemplo (PHP:5.6)... PHP:" versao
 	##if [ $versao = "5.2" ]; then
 	##	echo >> "AddHandler php5-script .php"
 	
