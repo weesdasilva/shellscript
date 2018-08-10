@@ -220,3 +220,4 @@ fi
 # visando agilizar e otimizar o atendimento quando o assunto é site fora;  #
 #									   #
 ############################################################################
+#
